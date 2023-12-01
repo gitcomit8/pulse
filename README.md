@@ -7,7 +7,7 @@
 * Likes and Comments
 * Friend System
 * Notification
-* RT chat
+* RT user-user chat
 
 **Platforms:**
 
