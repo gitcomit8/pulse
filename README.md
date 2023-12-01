@@ -28,7 +28,7 @@
 
 
 **Todo**
-- [] Database Schema
-- [] Backend Structure
-- [] Authentication and Authorization
-- [] Frontend Structure
+- [ ] Database Schema
+- [ ] Backend Structure
+- [ ] Authentication and Authorization
+- [ ] Frontend Structure
