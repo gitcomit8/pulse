@@ -30,5 +30,10 @@
 **Todo**
 - [ ] Database Schema
 - [ ] Backend Structure
+    - [ ] Routes and Middleware
+    - [ ] 
 - [ ] Authentication and Authorization
 - [ ] Frontend Structure
+    - [ ] Wireframe and Mockup
+    - [ ] Styling and Theming
+    - [ ] Frontend Routing
