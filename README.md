@@ -1,4 +1,4 @@
-## Pulse
+## Pulse - A social media app 
 
 **Features:**
 
@@ -18,9 +18,17 @@
 
 * **Backend:** NodeJS
 * **Frontend:** ReactJS
+* **Database:** PostgreSQL
 
 **Priority:**
 
 1. Database
 2. Backend
 3. Frontend
+
+
+**Todo**
+- [] Database Schema
+- [] Backend Structure
+- [] Authentication and Authorization
+- [] Frontend Structure
